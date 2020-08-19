@@ -11,3 +11,16 @@ D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\
 D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Nueva carpeta\RepartoSushi\obj\Debug\netcoreapp3.1\RepartoSushi.dll
 D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Nueva carpeta\RepartoSushi\obj\Debug\netcoreapp3.1\RepartoSushi.pdb
 D:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Nueva carpeta\RepartoSushi\obj\Debug\netcoreapp3.1\RepartoSushi.genruntimeconfig.cache
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\bin\Debug\netcoreapp3.1\RepartoSushi.exe
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\bin\Debug\netcoreapp3.1\RepartoSushi.deps.json
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\bin\Debug\netcoreapp3.1\RepartoSushi.runtimeconfig.json
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\bin\Debug\netcoreapp3.1\RepartoSushi.runtimeconfig.dev.json
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\bin\Debug\netcoreapp3.1\RepartoSushi.dll
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\bin\Debug\netcoreapp3.1\RepartoSushi.pdb
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\obj\Debug\netcoreapp3.1\RepartoSushi.csprojAssemblyReference.cache
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\obj\Debug\netcoreapp3.1\RepartoSushi.AssemblyInfoInputs.cache
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\obj\Debug\netcoreapp3.1\RepartoSushi.AssemblyInfo.cs
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\obj\Debug\netcoreapp3.1\RepartoSushi.csproj.CoreCompileInputs.cache
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\obj\Debug\netcoreapp3.1\RepartoSushi.dll
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\obj\Debug\netcoreapp3.1\RepartoSushi.pdb
+E:\OneDrive - Universidad Abierta y a Distancia de México\unadam\5 semestre\B1\Programacion NET I\Unidad 2\codigo\Reparto-Suchi\obj\Debug\netcoreapp3.1\RepartoSushi.genruntimeconfig.cache

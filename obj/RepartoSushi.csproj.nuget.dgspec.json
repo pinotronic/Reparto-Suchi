@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\Nueva carpeta\\RepartoSushi\\RepartoSushi.csproj": {}
+    "E:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\Reparto-Suchi\\RepartoSushi.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\Nueva carpeta\\RepartoSushi\\RepartoSushi.csproj": {
+    "E:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\Reparto-Suchi\\RepartoSushi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\Nueva carpeta\\RepartoSushi\\RepartoSushi.csproj",
+        "projectUniqueName": "E:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\Reparto-Suchi\\RepartoSushi.csproj",
         "projectName": "RepartoSushi",
-        "projectPath": "D:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\Nueva carpeta\\RepartoSushi\\RepartoSushi.csproj",
-        "packagesPath": "C:\\Users\\Pinotronic\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\Nueva carpeta\\RepartoSushi\\obj\\",
+        "projectPath": "E:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\Reparto-Suchi\\RepartoSushi.csproj",
+        "packagesPath": "C:\\Users\\pinotronic\\.nuget\\packages\\",
+        "outputPath": "E:\\OneDrive - Universidad Abierta y a Distancia de México\\unadam\\5 semestre\\B1\\Programacion NET I\\Unidad 2\\codigo\\Reparto-Suchi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Pinotronic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\pinotronic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -56,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
